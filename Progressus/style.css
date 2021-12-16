@@ -1,0 +1,34 @@
+.lab12{
+	display: flex;flex-direction: row;
+}
+.lab1border{
+	border: 10px orange solid;
+}
+.lab1title{
+	margin-left: 150px;margin-right: auto;margin-top: 100px;"
+}
+.lab1form{
+	margin-left: 150px
+}
+
+.lab2border{
+	border: 5px gray solid;
+}
+.lab2title{
+	position: absolute;right:150px;left: auto;top: 100px
+}
+.lab2content{
+	position: absolute;right: 150px;top: 100px;
+}
+.AboutForm{
+	margin-left: 50%
+}
+.AboutBackground{
+	background-image: url('backgrounda.jfif');
+	border: 10px;border-color: orange;border-style:solid;
+	margin-top: 10px
+}
+.AboutInsertImage{
+	margin-top: 50px;margin-bottom: 50px;margin-left: 40%;
+	border:10px red solid
+}
